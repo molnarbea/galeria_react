@@ -1,0 +1,8 @@
+article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.KisKep{
+    width: 200px;
+}
