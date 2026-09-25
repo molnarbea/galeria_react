@@ -1,5 +1,6 @@
 import type { KepTipus } from "../adat";
 import KisKep from "./KisKep";
+import NagyKep from "./NagyKep";
 
 interface ListaProps{
     lista: KepTipus[],

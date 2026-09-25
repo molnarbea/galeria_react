@@ -1,8 +1,8 @@
 import type { KepTipus } from "../adat";
+import './NagyKep.css'
 
 interface NagyKepProps{
-    kepem: KepTipus,
-    index: number
+    kepem: KepTipus
 }
 
 export default function NagyKep({kepem}:NagyKepProps){
